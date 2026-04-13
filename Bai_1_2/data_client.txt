@@ -1,4 +1,0 @@
-Hello server
-I'm 20235393
-Goodbye
-exit
